@@ -4,7 +4,7 @@
 
 
 <div>
-<img width="450em" alt="Status Github edusnches" src="https://github-readme-stats.vercel.app/api?username=eduches&show_icons=true&theme=tokyonight" />
+<img width="450em" alt="Status Github eduches" src="https://github-readme-stats.vercel.app/api?username=eduches&show_icons=true&theme=tokyonight" />
 <img width="390em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduches&layout=compact&theme=tokyonight" />
 </div>
 
