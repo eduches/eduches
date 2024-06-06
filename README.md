@@ -18,9 +18,7 @@
  
     
 </div>
-  
-  
-  ![Snake animation](https://github.com/eduches/eduches/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
